@@ -22,7 +22,7 @@ from googletrans import Translator
 import youtube_dl
 #import pyimgflip
 
-kifli = LineClient(authToken='')
+kifli = LineClient(authToken=' ENqO84n3UYmehSdb98Ta.c5rf08AU+OGn89nbVNHBgG.V6nTCCw901Nr2ldmF+DGzcH88b/8ESZdyLOX29K48UU=')
 kifli.log("Auth Token : " + str(kifli.authToken))
 channel = LineChannel(kifli)
 kifli.log("Channel Access Token : " + str(channel.channelAccessToken))
