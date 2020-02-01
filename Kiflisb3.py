@@ -469,8 +469,11 @@ def help1():
                    "🔑❂͜͡➣ " + key + "ᴜᴘᴅᴀᴛᴇɢʀᴜᴘ\n" + \
                    "🔑❂͜͡➣ " + key + "ɢɪғᴛ:「ᴍɪᴅ ᴋᴏʀʙᴀɴ」「ᴊᴜᴍʟᴀʜ」\n" + \
                    "🔑❂͜͡➣ " + key + "sᴘᴀᴍ:「ᴍɪᴅ ᴋᴏʀʙᴀɴ」「ᴊᴜᴍʟᴀʜ」\n" + \
+                   "「🔑]   ʙʏ: Vean「🔑] \n" + \
+                   ""
                   
     return helpMessage1
+
 
 def help2():
     key = Setmain["keyCommand"]
@@ -504,6 +507,8 @@ def help2():
                   "「🔑] " + key + "Dkbot「ᴛᴇxᴛ」」\n" + \
                   "「🔑] " + key + "Berapa besar dosa「ᴛᴇxᴛ」\n" + \
                   "「🔑] " + key + "Berapa besar amal「ᴛᴇxᴛ」\n" + \
+                  " [🔑My Bot]🕸 ⃢   ⟗\n" + \
+                  ""
 
     return helpMessage2
 
@@ -549,6 +554,8 @@ def help3():
                   "「🔑」 " + key + "Get-lirik「Judul Lagu」\n" + \
                   "「🔑」 " + key + "Get-instagram「User Name」\n" + \
                   "「🔑」 " + key + "Get-date「tgl-bln-thn」\n" + \
+                  "「🔑」ʙʏ: Vean🕸 ⃢   ⟗\n" + \
+                  " "
 
     return helpMessage3
 
