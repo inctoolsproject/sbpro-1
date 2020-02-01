@@ -2,7 +2,7 @@
 import DRAGON
 from DRAGON import *
 from dkbot.ttypes import *
-from thrift.unverting import *
+from thrift.unverting import *'ua7c91cf040367cdd2b143f011b2a7de4'
 from thrift.TMultiplexedProcessor import *
 from thrift.TSerialization import *
 from thrift.TRecursive import *
