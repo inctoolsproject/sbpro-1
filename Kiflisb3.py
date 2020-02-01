@@ -425,7 +425,6 @@ def help():
                    "🔑❂͜͡➣" + key + "ʀᴇsᴇᴛᴋᴇʏ\n" + \
                   "🔑❂͜͡➣ " + key + "ʀᴇғʀᴇsʜ\n" + \
                   "👮❂͜͡➣ " + key + "Restart\n"+ \
-
     return helpMessage
 
 def help1():
